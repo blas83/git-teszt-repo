@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 akarmi
+=======
+Első változat
+>>>>>>> a469200 (több txt)
